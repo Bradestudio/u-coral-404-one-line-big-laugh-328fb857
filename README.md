@@ -8,13 +8,13 @@ One line for the [make.fun "One Line, Big Laugh" bounty](https://make.fun/bounty
 
 ## The line
 
-> My dog figured out the treat jar, changed the locks, and now charges me rent in bacon.
+> My dog cracked the treat jar, changed the locks, and now charges me rent in bacon.
 
-86 characters. Why this line wins, against the judge's five criteria, in the judge's own order:
+82 characters. Why this line wins, against the judge's five criteria, in the judge's own order:
 
 1. **Genuinely funny** — a dog outsmarting its owner is a familiar scene, but here the dog does not just steal a treat: it takes over the house.
 2. **Unexpected turn** — the reader expects the dog to eat the treats; instead it changes the locks, then charges rent. The pet becomes the landlord in two escalations.
-3. **Tight** — one sentence, 86 characters, setup and punchline on a single line, no wasted word.
+3. **Tight** — one sentence, 82 characters, setup and punchline on a single line, no wasted word.
 4. **Fresh** — no Wi-Fi, no meetings, no smart fridge talking. The final detail — rent payable in bacon — is an image nobody else in the field will have.
 5. **Memorable** — "charges me rent in bacon" stays in the head after one reading, which is exactly what the judge rewards.
 

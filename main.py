@@ -13,13 +13,14 @@
 #   * v2 smart speaker / meaning of life / ad for therapy: sharp
 #     twist, but the joke leans on the reader knowing voice
 #     assistants serve ads; the payoff is a shrug, not an image.
-#   * v3 (final) dog / treat jar / locks / rent in bacon: wins.
-#     Setup is one domestic image everyone knows (dog vs treat jar),
-#     then it escalates twice — the dog changes the locks, then
-#     charges rent — and the final detail (payable in bacon) is the
-#     surprise that sticks in the head. Every word earns its place;
-#     "figured out" beats "learned to open" because the dog is the
-#     schemer, not the student.
+#   * v3 dog / treat jar / locks / rent in bacon: wins. Setup is one
+#     domestic image everyone knows (dog vs treat jar), then it
+#     escalates twice — the dog changes the locks, then charges rent
+#     — and the final detail (payable in bacon) is the surprise that
+#     sticks in the head. Every word earns its place.
+#   * v4 (final) "figured out" -> "cracked": one word instead of two,
+#     and "cracked" makes the dog a safe-cracker, not a student. The
+#     line drops from 86 to 81 characters with a sharper image.
 #
 # Python 3.13, stdlib only, no network, no local imports.
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for
@@ -32,7 +33,7 @@ from pathlib import Path
 OUT_DIR = os.environ.get("MAKEFUN_OUTPUT_DIR", "/output")
 
 # The line: one sentence, setup then two escalating turns.
-LINE = "My dog figured out the treat jar, changed the locks, and now charges me rent in bacon."
+LINE = "My dog cracked the treat jar, changed the locks, and now charges me rent in bacon."
 
 # The gate: UTF-8 text, 1 to 200 characters, not only whitespace,
 # a single line. Refuse to write anything that fails it.
