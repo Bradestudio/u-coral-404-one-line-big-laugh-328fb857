@@ -20,7 +20,7 @@
 #     sticks in the head. Every word earns its place.
 #   * v4 (final) "figured out" -> "cracked": one word instead of two,
 #     and "cracked" makes the dog a safe-cracker, not a student. The
-#     line drops from 86 to 81 characters with a sharper image.
+#     line drops from 86 to 82 characters with a sharper image.
 #
 # Python 3.13, stdlib only, no network, no local imports.
 # Outside the grader's container, MAKEFUN_OUTPUT_DIR stands in for
